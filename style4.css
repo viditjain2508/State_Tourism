@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+body {
+    background-image:url('https://i.redd.it/o8dlfk93azs31.jpg');
+    background-position:center;
+    background-size:cover;
+    
+    -webkit-font-smoothing: antialiased;
+    font: normal 14px Roboto,arial,sans-serif;
+    font-family: 'Dancing Script', cursive!important;
+  }
+
+.carousel-inner img{
+    width:100%;
+    height:80vh;
+}
+.aboutimg{
+     width: 100%;
+     height: 250px !important;
+}

@@ -1,0 +1,127 @@
+<!--html>body style="background-color:black">
+    <table border="0">
+        <tr>
+            <td rowspan="5" style="background-color:grey;width:100px;height:150">
+                <img src="tourst2.jpg" height="300" width="400" align="center">
+            </td>
+            <td rowspan="5" style="background-color:grey;width:1800px;height:150">
+                <h1 style="text-align:center;text-color:black">WELCOME TO <br /> TOURIST MANAGEMENT SYSTEM
+                </h1>
+            </td>
+            <td rowspan="5" style="background-color:grey;width:100px;height:150">
+                <img src="tourist1.jpg" height="300" width="400">
+            </td>
+
+        </tr>
+    </table-->
+    <!--here-->
+    <!--link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <!------ Include the above in your HEAD tag ---------->
+    
+    <!--author:starttemplate-->
+    <!--reference site : starttemplate.com-->
+    <!--DOCTYPE html>
+    <html lang="en">
+    <head>
+        <style>
+            .hero__container{
+               font-family: 'Dancing Script', cursive!important;
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+                max-width: 1200px;
+                margin: 0 auto;
+                height: 90%;
+                text-align: center;
+                padding: 30px;
+            }
+            .hero__heading{
+                font-size: 70px;
+                margin-bottom: 24px;
+                color: #fff;
+            }
+            .hero__heading span {
+               background: #833ab4;
+               background: -webkit-linear-gradient(to right,#fcb045,#833ab4,#833ab4);
+               background: linear-gradient(to right,#fcb045,#833ab4,#833ab4);
+               background-size: 100%;
+               -webkit-background-clip: text;
+               -moz-background-clip: text;
+               -webkit-text-fill-color: transparent;
+               -moz-text-fill-color: transparent;
+            }
+            .hero__description {
+                font-size: 60px;
+            
+            }
+        </style>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta name="keywords"
+              content="unique login form,leamug login form,boostrap login form,responsive login form,free css html login form,download login form">
+        <meta name="author" content="leamug">
+        <title>State Tourism</title>
+        <link href="style.css" rel="stylesheet" id="style">
+        <!-- Bootstrap core Library -->
+        <!--link href="//netdna.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+        <script src="//netdna.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+        <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+        <!-- Google font -->
+        <!--link href="https://fonts.googleapis.com/css?family=Dancing+Script" rel="stylesheet">
+        <!-- Font Awesome-->
+        <!--link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+        
+    </head>
+    <body>
+    
+    <!-- Page Content -->
+    <!--div class="hero" id="home">
+        <div class="hero__container">
+            <h2 class="hero__heading"><span>HIMACHAL </span><span>TOURISM</span></h2>
+            <!--p style="color:white;" class="hero__description">Management System</p-->
+        <!--/div>
+    </div>
+    <div style="margin-top: -250px; margin-left: 100px;"class="container">
+        <div class="row">
+            <div class="col-md-offset-5 col-md-4 text-center">
+                  <div class="form-login"></br>
+                    <tr clospan="4" style="background-color:grey;width:3000;height:50">
+            
+                        <td style="text-align:center;width:300; color:red"><a href="customerlogin.html">
+                    <br>
+                                <h3><b>Customer Login</b></h3>
+                            </a>
+                        </td>
+                        <td style="text-align:center;width:300"><a href="adminlogin.html"><br>
+                                <h3><b>Admin Login</b></h3>
+                            </a>
+                        </td>
+                    
+                
+                </div>
+            </div>
+        </div>
+        </br></br></br>
+        <!--footer-->
+        <!--//footer-->
+    <!--/div>
+    </body>
+    </html>
+    
+
+    <br>
+    <br>
+    <table border="0" align="center">
+        
+
+        </tr>
+    </table>
+    <br>
+    <br>
+    
+</body>
+
+</html-->
